@@ -1,0 +1,15 @@
+/Users/natalapronina/Documents/Lesson_C#/example_01/bin/Debug/net6.0/example_01
+/Users/natalapronina/Documents/Lesson_C#/example_01/bin/Debug/net6.0/example_01.deps.json
+/Users/natalapronina/Documents/Lesson_C#/example_01/bin/Debug/net6.0/example_01.runtimeconfig.json
+/Users/natalapronina/Documents/Lesson_C#/example_01/bin/Debug/net6.0/example_01.dll
+/Users/natalapronina/Documents/Lesson_C#/example_01/bin/Debug/net6.0/example_01.pdb
+/Users/natalapronina/Documents/Lesson_C#/example_01/obj/Debug/net6.0/example_01.csproj.AssemblyReference.cache
+/Users/natalapronina/Documents/Lesson_C#/example_01/obj/Debug/net6.0/example_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalapronina/Documents/Lesson_C#/example_01/obj/Debug/net6.0/example_01.AssemblyInfoInputs.cache
+/Users/natalapronina/Documents/Lesson_C#/example_01/obj/Debug/net6.0/example_01.AssemblyInfo.cs
+/Users/natalapronina/Documents/Lesson_C#/example_01/obj/Debug/net6.0/example_01.csproj.CoreCompileInputs.cache
+/Users/natalapronina/Documents/Lesson_C#/example_01/obj/Debug/net6.0/example_01.dll
+/Users/natalapronina/Documents/Lesson_C#/example_01/obj/Debug/net6.0/refint/example_01.dll
+/Users/natalapronina/Documents/Lesson_C#/example_01/obj/Debug/net6.0/example_01.pdb
+/Users/natalapronina/Documents/Lesson_C#/example_01/obj/Debug/net6.0/example_01.genruntimeconfig.cache
+/Users/natalapronina/Documents/Lesson_C#/example_01/obj/Debug/net6.0/ref/example_01.dll
